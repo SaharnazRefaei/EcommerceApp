@@ -1,4 +1,4 @@
-<p>✨MyEcommerce</p>
+<p>✨Ecommerce App</p>
 
 <img src="https://user-images.githubusercontent.com/102354875/188324853-66692fae-8a09-4a26-bbb5-ce1362578549.png"></img>
 
